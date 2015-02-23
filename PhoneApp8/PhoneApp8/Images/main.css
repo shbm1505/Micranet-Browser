@@ -1,0 +1,34 @@
+:nth-child(2){color:pink;}
+a:hover{text-decoration:none;
+        color:brown;
+       }		   
+.sumit{a:hover{ font-size:40px;
+         border:1px red inset;
+         color:green;
+		 font-style:italic;
+		 font-weight:bold;
+         text-decoration:none;
+        }
+		}	
+	
+body{background-image:url(priyanka-chopra-movie.jpg);
+       background-repeat:no-repeat;
+	   background-size:1500px 1000px;
+	   opacity:1
+       }
+}
+.sumo{color:green;}
+.sumo1{margin:300px; color:blue;}
+.sumo2{margin:600px;color:red;}
+ul.x
+{
+width:120px;
+}
+ li
+{
+list-style-type:none;
+display:inline;
+padding:.6em .6em;
+background:green;
+}
+
